@@ -1,0 +1,33 @@
+https://www.w3schools.com/bootstrap/bootstrap_modal.asp ---- modal changing and design
+https://pngtree.com/free-icon/little-helper_657605 ------avatar logo
+https://plus.google.com/105589642378961984638 -----background image index page
+https://codepen.io/vpdemo/pen/WbMvQJ  ------social media
+http://astronautweb.co/snippet/font-awesome/ ------library for icons of social media
+https://www.gps-coordinates.net/  --------- coordinates of aspire 2 of an address
+http://www.simplehtmlguide.com/youtube.php ---------video from youtube
+https://developers.google.com/maps/documentation/javascript/get-api-key  -----API creation
+https://www.w3schools.com/graphics/google_maps_intro.asp -----maps
+https://codepen.io/anon/pen/vPaxVy ----windows googlemaps customize
+https://www.youtube.com/watch?v=-gxpLGIKGB4  ------video
+https://blog.theodo.fr/2018/01/responsive-iframes-css-trick/ ----- responsive video
+https://www.w3schools.com/css/css3_gradients.asp ------gradient background and instagram
+https://codepen.io/Miyagi_apps/pen/QGbvGP ---- landing page
+https://wallpapercave.com/tuned-cars-wallpapers-hd ----landing3
+https://mdbootstrap.com/docs/jquery/javascript/google-maps/ ----map design
+https://stackoverflow.com/questions/18252433/how-to-style-a-php-echo-text ------echo style
+https://getbootstrap.com/docs/4.3/components/navbar/  ---navbar
+https://www.w3schools.com/howto/howto_css_login_form.asp -----forgot password
+https://geekgoddess.com/how-to-resize-the-google-nocaptcha-recaptcha/  ---re catpcha responsive
+https://www.w3schools.com/howto/howto_css_navbar_icon.asp --- icons on navbars
+https://stackoverflow.com/questions/27279241/pass-id-value-from-ahref-to-bootstrap-modal-php ---- deleteuser with modal
+https://codepen.io/silverdrop/pen/msrcE -----dropdown
+https://www.youtube.com/watch?v=AIHs0lsbuls -----image to phpmyadmin
+https://www.webslesson.info/2016/10/insert-and-fetch-images-from-mysql-database-in-php.html ---images into database and get images from database
+
+
+
+mm.gdit.ip@gmail.com
+Mailer@123
+ak.gdit.ip@gmail.com
+Mailer@123
+
